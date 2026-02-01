@@ -38,9 +38,3 @@ The dashboard correlates **Average Cashback** with payment methods (E-wallets, C
 * **Tool:** Power BI Desktop.
 * **Techniques:** Data Cleaning (Power Query), DAX Measures for KPI calculations, Data Modeling, and Interactive Visualization.
 * **Approach:** Integrated microeconomic consumer behavior theory with descriptive analytics.
-
----
-
-## 📂 How to Access
-Since this project was built using an organizational account, a live interactive link is restricted. However, you can view the full report here:
-* 📄 **[Customer Churn Analysis.pdf](./Customer_Churn_Analysis.pdf):** Full PDF export of the dashboard.
